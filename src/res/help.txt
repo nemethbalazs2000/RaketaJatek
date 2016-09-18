@@ -1,0 +1,6 @@
+A RakétaJáték programban - mint ahogy azt a neve is mutatja - egy rakétával játszol.
+Célod, hogy a lehető legtöbb ellenséges szörnyet lődd le, még mielőtt azok földet érnének.
+A rakétádat a nyilakkal, illetve az A és D billentyűkkel tudod mozgatni.
+A lövéshez pedig nyomd meg a SPACE gombot.
+Ha 5 lövedék eléri a földet, a játéknak vége és feljegyezheted magad a toplistára.
+A toplistát a Pontok menüpontban láthatod.
